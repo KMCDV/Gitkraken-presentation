@@ -9,4 +9,23 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Debug.Log("hahahaha");
     }
+    
+    void Start()
+    {
+        Debug.Log("asdfasdfa");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        Debug.Log("asdfasdfa");
+    }
+    
+    /*
+     *
+     *
+     *
+     *
+     * sdfoaiusbrfgiausbrgiubdriga
+     */
 }
